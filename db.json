@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Elijah",
+      "hp": "1000000",
+      "sprites": {
+        "front": "https://th.bing.com/th/id/OIP.NmtzIsh4Riz1rJgF3gJt7gHaIX?w=153&h=180&c=7&o=5&pid=1.7",
+        "back": "https://th.bing.com/th/id/OIP.NJ0lt4nM0AjvdfEBTA2kOgHaFj?w=243&h=182&c=7&o=5&pid=1.7"
+      },
+      "id": 151
+    },
+    {
+      "name": "Hugo",
+      "hp": "100000000",
+      "sprites": {
+        "front": "https://th.bing.com/th/id/OIP.nsWYWJH01YKqbu7m-b96qAHaHa?w=183&h=182&c=7&o=5&pid=1.7",
+        "back": "https://th.bing.com/th/id/OIP.LAf9FwJHiZTMfM_otHmqUAHaE8?w=274&h=182&c=7&o=5&pid=1.7"
+      },
+      "id": 152
+    },
+    {
+      "name": "Isaiah",
+      "hp": "77777777",
+      "sprites": {
+        "front": "https://th.bing.com/th/id/OIP.0a1EHJmIspkn8uBL0K1mhQHaF-?w=214&h=180&c=7&o=5&pid=1.7",
+        "back": "https://th.bing.com/th/id/OIP.t0yK2WH7Rkp-Ht-INz0-JgAAAA?w=261&h=166&c=7&o=5&pid=1.7"
+      },
+      "id": 153
     }
   ]
 }
